@@ -4,62 +4,64 @@
 
 ## Ресурсы
 
- ID | Фаза | Уровень колонии | Название                                                                                                       | Производство
-----|------|-----------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------
- 1  | 1    | 1               | ![Соли](../images/icons/good_salts.png) Соли (Salts)                                                           | Солевая шахта
- 2  | 1    | 2               | ![Кремнезем](../images/icons/good_silica.png) Кремнезем (Silica)                                               | Кремниевая шахта
- 3  | 1    | 3               | ![Свинец](../images/icons/good_lead.png) Свинец (Lead)                                                         | Свинцовая шахта
- 4  | 1    | 1               | ![Пища](../images/icons/good_food.png) Пища (Food)                                                             | Пищевая лаборатория
- 5  | 1    | 1               | ![Вода](../images/icons/good_water.png) Вода (Water)                                                           | Добыча воды, Химический завод
- 6  | 1    | 2               | ![Соляной раствор](../images/icons/good_saline_solution.png) Соляной раствор (Saline solution)                 | Лаборатория
- 7  | 1    | 2               | ![Питательный раствор](../images/icons/good_nutrient_solution.png) Питательный раствор (Nutrient solution)     | Биологический завод
- 8  | 1    | 2               | ![Биомасса](../images/icons/good_biomass.png) Биомасса (Biomass)                                               | Биореактор
- 9  | 1    | 1               | ![Водород](../images/icons/good_hydrogen.png) Водород (Hydrogen)                                               | Разделитель
- 10 | 1    | 1               | ![Кислород](../images/icons/good_oxygen.png) Кислород (Oxygen)                                                 | Разделитель
- 11 | 1    | 2               | ![Углекислый газ](../images/icons/good_carbon_dioxide.png) Углекислый газ (Carbon dioxide)                     | МАРС СПГ, Кремниевый завод, Теплоэлектростанция
- 12 | 1    | 3               | ![Воздух для дыхания](../images/icons/good_air.png) Воздух для дыхания (Breathable air)                        | Производство воздуха
- 13 | 2    | 3               | ![Углерод](../images/icons/good_carbon.png) Углерод (Carbon)                                                   | Графитовая шахта
- 14 | 2    | 4               | ![Стекло](../images/icons/good_glass.png) Стекло (Glass)                                                       | Стекольный завод
- 15 | 2    | 3               | ![Серная кислота](../images/icons/good_sulfuric_acid.png) Серная кислота (Sulfuric acid)                       | Свинцовая шахта
- 16 | 2    | 4               | ![Азотная кислота](../images/icons/good_nitric_acid.png) Азотная кислота (Nitric acid)                         | Химический завод
- 17 | 2    | 3               | ![Азот](../images/icons/good_nitrogen.png) Азот (Nitrogen)                                                     | МАРС СПГ
- 18 | 2    | 4               | ![Аммиак](../images/icons/good_ammonia.png) Аммиак (Ammonia)                                                   | Аммиачный реактор
- 19 | 3    | 5               | ![Кремний](../images/icons/good_silicon.png) Кремний (Silicon)                                                 | Кремниевый завод
- 20 | 3    | 7               | ![Водоросли](../images/icons/good_seaweed.png) Водоросли (Seaweed)                                             | Биореактор
- 21 | 3    | 5               | ![Нитроглицерин](../images/icons/good_nitroglycerin.png) Нитроглицерин (Nitroglycerin)                         | Нитроглицериновый завод
- 22 | 3    | 7               | ![Удобрение](../images/icons/good_fertilizer.png) Удобрение (Fertilizer)                                       | Завод по производству удобрений
- 23 | 3    | 5               | ![Хлор](../images/icons/good_chlorine.png) Хлор (Chlorine)                                                     | Разделитель
- 24 | 3    | 7               | ![Озон](../images/icons/good_ozone.png) Озон (Ozone)                                                           | Озонатор
- 25 | 4    | 7               | ![Алюминий](../images/icons/good_aluminium.png) Алюминий (Aluminium)                                           | Рудник
- 26 | 4    | 9               | ![Пластмасса](../images/icons/good_plastics.png) Пластмасса (Plastics)                                         | Завод пластмасс
- 27 | 4    | 7               | ![Полимер](../images/icons/good_polymer.png) Полимер (Polymer)                                                 | Завод полимеров
- 28 | 4    | 9               | ![Жидкий кристалл](../images/icons/good_liquid_crystal.png) Жидкий кристалл (Liquid crystal)                   | Кристаллизатор
- 29 | 4    | 7               | ![Аргон](../images/icons/good_argon.png) Аргон (Argon)                                                         | МАРС СПГ
- 30 | 4    | 9               | ![Метан](../images/icons/good_methane.png) Метан (Methane)                                                     | Биогазовая установка
- 31 | 5    | 8               | ![Литий](../images/icons/good_lithium.png) Литий (Lithium)                                                     | Рудник
- 32 | 5    | 10              | ![Солнечная панель](../images/icons/good_solar_cells.png) Солнечная панель (Solar panel)                       | Завод солнечных элементов
- 33 | 5    | 8               | ![Космический клей](../images/icons/good_glue.png) Космический клей (Space glue)                               | Завод по производству клея
- 34 | 5    | 10              | ![Топливо](../images/icons/good_motor_fuel.png) Топливо (Fuel)                                                 | Топливный завод
- 35 | 5    | 8               | ![Оксид азота](../images/icons/good_nitrous_oxide.png) Оксид азота (Nitrous oxide)                             | Химический завод
- 36 | 5    | 10              | ![Ацетилен](../images/icons/good_ethyne.png) Ацетилен (Acetylene)                                              | Ацетиленовый завод
- 37 | 6    | 10              | ![Титан](../images/icons/good_titanium.png) Титан (Titanium)                                                   | Рудник
- 38 | 6    | 11              | ![Аккумулятор](../images/icons/good_batteries.png) Аккумулятор (Accumulator)                                   | Аккумуляторный завод
- 39 | 6    | 10              | ![Термопаста](../images/icons/good_thermal_compound.png) Термопаста (Thermal compound)                         | Технический завод
- 40 | 6    | 11              | ![Гидравлическое масло](../images/icons/good_hydraulic_fluid.png) Гидравлическое масло (Hydraulic oil)         | Гидравлический завод
- 41 | 6    | 10              | ![Гелий](../images/icons/good_helium.png) Гелий (Helium)                                                       | Биогазовая установка
- 42 | 6    | 11              | ![Фтор](../images/icons/good_fluorine.png) Фтор (Fluorine)                                                     | Фтор перерабатывающий завод
- 43 | 7    | 11              | ![Инструменты](../images/icons/good_tools.png) Инструменты (Tools)                                             | Титановый завод
- 44 | 7    | 12              | ![Гидравлические запчасти](../images/icons/good_hydraulic_parts.png) Гидравлические запчасти (Hydraulic parts) | Титановый завод
- 45 | 7    | 11              | ![Охлаждающая жидкость](../images/icons/good_coolant.png) Охлаждающая жидкость (Coolant)                       | Завод систем охлаждения
- 46 | 7    | 12              | ![Лекарства](../images/icons/good_medicine.png) Лекарства (Medicine)                                           | Фармацевтический завод
- 47 | 7    | 11              | ![Светильник](../images/icons/good_illuminant.png) Светильник (Illuminants)                                    | Cветотехнический завод
- 48 | 7    | 12              | ![Районное отопление](../images/icons/good_district_heating.png) Районное отопление (District heating)         | Теплоэлектростанция
- 49 | 8    | 12              | ![Топливные элементы](../images/icons/good_fuel_cells.png) Топливные элементы (Fuel cells)                     | Завод топливных элементов
- 50 | 8    | 12              | ![Микросхемы](../images/icons/good_microchips.png) Микросхемы (Microchips)                                     | Завод полупроводников
- 51 | 8    | 12              | ![Витамины](../images/icons/good_nutritional_supplements.png) Витамины (Vitamin supplements)                   | Фармацевтический завод
- 52 | 8    | 12              | ![Средства гигиены](../images/icons/good_hygienics.png) Средства гигиены (Toiletries)                          | Фармацевтический завод
- 53 | 8    | 12              | ![Анализатор сероводорода](../images/icons/good_lasergas.png) Анализатор сероводорода (Laser gas)              | Сероводородный завод
- 54 | 8    | 12              | ![Газ. топливный элемент](../images/icons/good_fuel_cell_gas.png) Газ. топливный элемент (Fuel cell gas)       | Завод газ. топливных элементов
+Цены на лицензии в финальной стадии игры сокращаются в 2 раза.
+
+ ID | Фаза | Уровень | Цена лицензии  | Название                                                                                                       | Производство
+----|------|---------|----------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------
+ 1  | 1    | 1       | <s>M</s>440    | ![Соли](../images/icons/good_salts.png) Соли (Salts)                                                           | Солевая шахта
+ 2  | 1    | 2       | <s>M</s>2440   | ![Кремнезем](../images/icons/good_silica.png) Кремнезем (Silica)                                               | Кремниевая шахта
+ 3  | 1    | 3       | <s>M</s>7020   | ![Свинец](../images/icons/good_lead.png) Свинец (Lead)                                                         | Свинцовая шахта
+ 4  | 1    | 1       | <s>M</s>440    | ![Пища](../images/icons/good_food.png) Пища (Food)                                                             | Пищевая лаборатория
+ 5  | 1    | 1       | <s>M</s>440    | ![Вода](../images/icons/good_water.png) Вода (Water)                                                           | Добыча воды, Химический завод
+ 6  | 1    | 2       | <s>M</s>2440   | ![Соляной раствор](../images/icons/good_saline_solution.png) Соляной раствор (Saline solution)                 | Лаборатория
+ 7  | 1    | 2       | <s>M</s>2440   | ![Питательный раствор](../images/icons/good_nutrient_solution.png) Питательный раствор (Nutrient solution)     | Биологический завод
+ 8  | 1    | 2       | <s>M</s>2440   | ![Биомасса](../images/icons/good_biomass.png) Биомасса (Biomass)                                               | Биореактор
+ 9  | 1    | 1       | <s>M</s>440    | ![Водород](../images/icons/good_hydrogen.png) Водород (Hydrogen)                                               | Разделитель
+ 10 | 1    | 1       | <s>M</s>440    | ![Кислород](../images/icons/good_oxygen.png) Кислород (Oxygen)                                                 | Разделитель
+ 11 | 1    | 2       | <s>M</s>2440   | ![Углекислый газ](../images/icons/good_carbon_dioxide.png) Углекислый газ (Carbon dioxide)                     | МАРС СПГ, Кремниевый завод, Теплоэлектростанция
+ 12 | 1    | 3       | <s>M</s>7020   | ![Воздух для дыхания](../images/icons/good_air.png) Воздух для дыхания (Breathable air)                        | Производство воздуха
+ 13 | 2    | 3       | <s>M</s>7020   | ![Углерод](../images/icons/good_carbon.png) Углерод (Carbon)                                                   | Графитовая шахта
+ 14 | 2    | 4       | <s>M</s>15200  | ![Стекло](../images/icons/good_glass.png) Стекло (Glass)                                                       | Стекольный завод
+ 15 | 2    | 3       | <s>M</s>7020   | ![Серная кислота](../images/icons/good_sulfuric_acid.png) Серная кислота (Sulfuric acid)                       | Свинцовая шахта
+ 16 | 2    | 4       | <s>M</s>15200  | ![Азотная кислота](../images/icons/good_nitric_acid.png) Азотная кислота (Nitric acid)                         | Химический завод
+ 17 | 2    | 3       | <s>M</s>7020   | ![Азот](../images/icons/good_nitrogen.png) Азот (Nitrogen)                                                     | МАРС СПГ
+ 18 | 2    | 4       | <s>M</s>15200  | ![Аммиак](../images/icons/good_ammonia.png) Аммиак (Ammonia)                                                   | Аммиачный реактор
+ 19 | 3    | 5       | <s>M</s>28000  | ![Кремний](../images/icons/good_silicon.png) Кремний (Silicon)                                                 | Кремниевый завод
+ 20 | 3    | 7       | <s>M</s>71540  | ![Водоросли](../images/icons/good_seaweed.png) Водоросли (Seaweed)                                             | Биореактор
+ 21 | 3    | 5       | <s>M</s>28000  | ![Нитроглицерин](../images/icons/good_nitroglycerin.png) Нитроглицерин (Nitroglycerin)                         | Нитроглицериновый завод
+ 22 | 3    | 7       | <s>M</s>71540  | ![Удобрение](../images/icons/good_fertilizer.png) Удобрение (Fertilizer)                                       | Завод по производству удобрений
+ 23 | 3    | 5       | <s>M</s>28000  | ![Хлор](../images/icons/good_chlorine.png) Хлор (Chlorine)                                                     | Разделитель
+ 24 | 3    | 7       | <s>M</s>71540  | ![Озон](../images/icons/good_ozone.png) Озон (Ozone)                                                           | Озонатор
+ 25 | 4    | 7       | <s>M</s>71540  | ![Алюминий](../images/icons/good_aluminium.png) Алюминий (Aluminium)                                           | Рудник
+ 26 | 4    | 9       | <s>M</s>145800 | ![Пластмасса](../images/icons/good_plastics.png) Пластмасса (Plastics)                                         | Завод пластмасс
+ 27 | 4    | 7       | <s>M</s>71540  | ![Полимер](../images/icons/good_polymer.png) Полимер (Polymer)                                                 | Завод полимеров
+ 28 | 4    | 9       | <s>M</s>145800 | ![Жидкий кристалл](../images/icons/good_liquid_crystal.png) Жидкий кристалл (Liquid crystal)                   | Кристаллизатор
+ 29 | 4    | 7       | <s>M</s>71540  | ![Аргон](../images/icons/good_argon.png) Аргон (Argon)                                                         | МАРС СПГ
+ 30 | 4    | 9       | <s>M</s>145800 | ![Метан](../images/icons/good_methane.png) Метан (Methane)                                                     | Биогазовая установка
+ 31 | 5    | 8       | <s>M</s>104320 | ![Литий](../images/icons/good_lithium.png) Литий (Lithium)                                                     | Рудник
+ 32 | 5    | 10      | <s>M</s>197000 | ![Солнечная панель](../images/icons/good_solar_cells.png) Солнечная панель (Solar panel)                       | Завод солнечных элементов
+ 33 | 5    | 8       | <s>M</s>104320 | ![Космический клей](../images/icons/good_glue.png) Космический клей (Space glue)                               | Завод по производству клея
+ 34 | 5    | 10      | <s>M</s>197000 | ![Топливо](../images/icons/good_motor_fuel.png) Топливо (Fuel)                                                 | Топливный завод
+ 35 | 5    | 8       | <s>M</s>104320 | ![Оксид азота](../images/icons/good_nitrous_oxide.png) Оксид азота (Nitrous oxide)                             | Химический завод
+ 36 | 5    | 10      | <s>M</s>197000 | ![Ацетилен](../images/icons/good_ethyne.png) Ацетилен (Acetylene)                                              | Ацетиленовый завод
+ 37 | 6    | 10      | <s>M</s>197000 | ![Титан](../images/icons/good_titanium.png) Титан (Titanium)                                                   | Рудник
+ 38 | 6    | 11      | <s>M</s>258940 | ![Аккумулятор](../images/icons/good_batteries.png) Аккумулятор (Accumulator)                                   | Аккумуляторный завод
+ 39 | 6    | 10      | <s>M</s>197000 | ![Термопаста](../images/icons/good_thermal_compound.png) Термопаста (Thermal compound)                         | Технический завод
+ 40 | 6    | 11      | <s>M</s>258940 | ![Гидравлическое масло](../images/icons/good_hydraulic_fluid.png) Гидравлическое масло (Hydraulic oil)         | Гидравлический завод
+ 41 | 6    | 10      | <s>M</s>197000 | ![Гелий](../images/icons/good_helium.png) Гелий (Helium)                                                       | Биогазовая установка
+ 42 | 6    | 11      | <s>M</s>258940 | ![Фтор](../images/icons/good_fluorine.png) Фтор (Fluorine)                                                     | Фтор перерабатывающий завод
+ 43 | 7    | 11      | <s>M</s>258940 | ![Инструменты](../images/icons/good_tools.png) Инструменты (Tools)                                             | Титановый завод
+ 44 | 7    | 12      | <s>M</s>332640 | ![Гидравлические запчасти](../images/icons/good_hydraulic_parts.png) Гидравлические запчасти (Hydraulic parts) | Титановый завод
+ 45 | 7    | 11      | <s>M</s>258940 | ![Охлаждающая жидкость](../images/icons/good_coolant.png) Охлаждающая жидкость (Coolant)                       | Завод систем охлаждения
+ 46 | 7    | 12      | <s>M</s>332640 | ![Лекарства](../images/icons/good_medicine.png) Лекарства (Medicine)                                           | Фармацевтический завод
+ 47 | 7    | 11      | <s>M</s>258940 | ![Светильник](../images/icons/good_illuminant.png) Светильник (Illuminants)                                    | Cветотехнический завод
+ 48 | 7    | 12      | <s>M</s>332640 | ![Районное отопление](../images/icons/good_district_heating.png) Районное отопление (District heating)         | Теплоэлектростанция
+ 49 | 8    | 12      | <s>M</s>332640 | ![Топливные элементы](../images/icons/good_fuel_cells.png) Топливные элементы (Fuel cells)                     | Завод топливных элементов
+ 50 | 8    | 12      | <s>M</s>332640 | ![Микросхемы](../images/icons/good_microchips.png) Микросхемы (Microchips)                                     | Завод полупроводников
+ 51 | 8    | 12      | <s>M</s>332640 | ![Витамины](../images/icons/good_nutritional_supplements.png) Витамины (Vitamin supplements)                   | Фармацевтический завод
+ 52 | 8    | 12      | <s>M</s>332640 | ![Средства гигиены](../images/icons/good_hygienics.png) Средства гигиены (Toiletries)                          | Фармацевтический завод
+ 53 | 8    | 12      | <s>M</s>332640 | ![Анализатор сероводорода](../images/icons/good_lasergas.png) Анализатор сероводорода (Laser gas)              | Сероводородный завод
+ 54 | 8    | 12      | <s>M</s>332640 | ![Газ. топливный элемент](../images/icons/good_fuel_cell_gas.png) Газ. топливный элемент (Fuel cell gas)       | Завод газ. топливных элементов
 
 ## Производства
 
