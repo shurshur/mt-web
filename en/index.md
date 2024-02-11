@@ -1,3 +1,4 @@
+* [Resources and factories](goods.md)
 * [Map](/map)
 
 *This website is not related with [Gamefabrik GmbH](https://gamefab.de/).*
