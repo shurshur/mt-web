@@ -33,4 +33,4 @@
 
 *Сайт не связан с [Gamefabrik GmbH](https://gamefab.de/). Информация на сайте отражает мнение автора и не может рассматриваться как официальная.*
 
-По всем вопросам писать в [Discord](https://discord.gg/Ez4zg8uFHF) или игроку ShurShur.
+По всем вопросам писать в [Discord](https://discord.gg/Zewx4sjyRY) или игроку ShurShur.
